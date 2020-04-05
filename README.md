@@ -99,5 +99,7 @@ On error, the function returns `int(2)` (meaning data-folder not found) or `int(
 
 ## Main
 The file main.py contains the user-interface and calls the functions described above. To start the program, just type
-`python main.py` on your command line.
+`python main.py` on your command line.  
+
+Look in folder /screenshots for some advice on using the program.
 
